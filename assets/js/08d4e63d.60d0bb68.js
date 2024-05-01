@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknextid_wiki=self.webpackChunknextid_wiki||[]).push([[1375],{5390:e=>{e.exports=JSON.parse('{"permalink":"/nextid-wiki/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

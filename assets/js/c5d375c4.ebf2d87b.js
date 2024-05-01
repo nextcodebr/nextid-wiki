@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknextid_wiki=self.webpackChunknextid_wiki||[]).push([[1653],{7615:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/nextid-wiki/blog/tags/facebook","allTagsPath":"/nextid-wiki/blog/tags","count":1,"unlisted":false}')}}]);

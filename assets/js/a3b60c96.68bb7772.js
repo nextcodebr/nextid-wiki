@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknextid_wiki=self.webpackChunknextid_wiki||[]).push([[6837],{4831:i=>{i.exports=JSON.parse('{"title":"NextID - APIs","slug":"/category/nextid---apis","permalink":"/nextid-wiki/docs/category/nextid---apis","navigation":{"next":{"title":"FAQ","permalink":"/nextid-wiki/docs/nextid-apis/faq"}}}')}}]);

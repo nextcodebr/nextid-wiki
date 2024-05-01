@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknextid_wiki=self.webpackChunknextid_wiki||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/nextid-wiki/blog","blogTitle":"Blog"}')}}]);
